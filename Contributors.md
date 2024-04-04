@@ -1,4 +1,5 @@
 # Contributors
+
 - [Tomy Roy](https://github.com/tomyroydotcom/)
 - [Beita](https://github.com/liny18)
 - [TREVOR ARNOLDS](https://github.com/TREVORNDONJI)
@@ -13,6 +14,7 @@ git add Contributors.md# Contributors
 - [Soham Desai](https://github.com/desaisoham0)
 - [Tristan Long](https://github.com/longtr28)
 - [Dawson Bremner](https://github.com/FLYGUY4400)
+- [Alejandro Villegas](https://github.com/26Ale10)
 - [Debbie Nguyen] (https://github.com/debbie-nguyen)
 - [Justin Stoner](https://github.com/justinstoner2)
 - [Giorgos Papoutsakis](https://github.com/GiorgosPapoutsakis)
